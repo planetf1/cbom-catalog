@@ -5,8 +5,8 @@ Experimental repository to catalog CBOMs in opensource projects.
 
 ## Prerequisites
 
-- [Material for MkDocs]: https://squidfunk.github.io/mkdocs-material/
-- [Mike]: https://github.com/jimporter/mike
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [Mike](https://github.com/jimporter/mike)
 
 You can install these requirements via:
 ```
