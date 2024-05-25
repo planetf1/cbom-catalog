@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 site_name: CBOM Catalog
-site_url: https://github.io/planetf1/cbom-catalog/latest/
+site_url: https://planetf1.github.io/cbom-catalog/latest/
 repo_name: cbom-catalog
 repo_url: https://github.com/planetf1/cbom-catalog
 theme:
