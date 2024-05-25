@@ -33,6 +33,7 @@ jobs:
           path: .cache
       - name: Install Python dependencies
         run: pip install -r ./requirements.txt
+        working-dir: docs
       - name: Configure git user
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
